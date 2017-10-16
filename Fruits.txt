@@ -1,4 +1,4 @@
 apples
 bananas
 oranges
-tomatoes
+tomatoes (it is a fruit!)
